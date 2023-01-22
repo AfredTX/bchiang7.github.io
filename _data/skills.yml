@@ -18,10 +18,11 @@ languages:
 
 frameworks:
   - item: Agile
-  - item: Django
+  - item: Extrem Programming
+  - item: Kanban
   - item: Lean Six Sigma
   - item: Scrum
-  - item: Wordpress
+  - item: Waterfall
 
 
 tools:
