@@ -16,7 +16,7 @@ languages:
   - item: SQL
 
 
-frameworks & methodologies:
+frameworks:
   - item: Agile
   - item: Django
   - item: Lean Six Sigma
