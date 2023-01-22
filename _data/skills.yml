@@ -1,3 +1,11 @@
+skills:
+  - item: Communications
+  - item: Data Analysis
+  - item: Database Administration
+  - item: Dashboard Design
+  - item: Project Management
+  - item: Operations Management
+ 
 languages:
   - item: CSS
   - item: HTML
@@ -7,29 +15,18 @@ languages:
   - item: SQL
 
 
-frameworks:
+frameworks & methodologies:
+  - item: Agile
   - item: Django
+  - item: Lean Six Sigma
+  - item: Scrum
   - item: Wordpress
 
 
 tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Chrome DevTools
-  - item: MS365
-  - item: Google Colab
-  - item: Postman
-
-
-design:
   - item: Adobe Suite
+  - item: Asana
+  - item: Git & Github
+  - item: MS 365
   - item: Power BI
   - item: Tableau
-
-
-project management:
-  - item: Agile
-  - item: Asana
-  - item: Lean
-  - item: Microsoft Project
-  - item: Scrum
