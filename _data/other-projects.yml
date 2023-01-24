@@ -1,3 +1,13 @@
+- name: Django Message Board
+  url: https://github.com/AfredTX/message_board
+  description: A message board app builting using Django and hosted on Heroku
+  used:
+    - thing: Django
+    - thing: Heroku
+    - thing: HTML
+    - thing: Git
+    - thing: Python
+    
 - name: Web Scraper
   url: https://github.com/AfredTX/Webscraper
   description: A web scraper that i made to collect news headlines from Space.com
@@ -17,7 +27,7 @@
     - thing: Postman
     
 - name: HR Compensation Tool
-  url: https://drive.google.com/open?id=1vmo-YCrkQVFqkePcJkDKeQNB0Z-ETm-w
+  url: https://github.com/AfredTX/message_board
   description: An exercise in data modeling that provides a company's human resources office evaluate employee performance and compensation on an annual basis.
   used:
     - thing: Advanced Excel Techniques
