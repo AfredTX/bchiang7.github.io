@@ -18,7 +18,7 @@ languages:
 
 frameworks:
   - item: Agile
-  - item: Extrem Programming
+  - item: Extreme Programming
   - item: Kanban
   - item: Lean Six Sigma
   - item: Scrum
