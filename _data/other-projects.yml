@@ -21,10 +21,16 @@
   url: https://drive.google.com/open?id=1UCB3YefB6WmI-Vnl3JGfHbjQMwKCuxaZ
   description: Making API requests to gather information from various websites and databases.
   used:
-    - thing: Pyhton
+    - thing: Python
     - thing: SQL
     - thing: API Interfacing
     - thing: Postman
+    
+- name: Code Wars Kata
+  url: https://github.com/AfredTX/codewars_katas
+  description: I made this repository to keep track of all the kata that I solved on Code Wars
+  used:
+    - thing: Pyhton   
     
 - name: HR Compensation Tool
   url: https://github.com/AfredTX/message_board
