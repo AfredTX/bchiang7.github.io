@@ -28,15 +28,12 @@
     
 - name: Code Wars Kata
   url: https://github.com/AfredTX/codewars_katas
-  description: I made this repository to keep track of all the kata that I solved on Code Wars
+  description: I made this repository to keep track of all the kata that I solved on Code Wars.
   used:
     - thing: Pyhton   
     
-- name: HR Compensation Tool
-  url: https://github.com/AfredTX/message_board
-  description: An exercise in data modeling that provides a company's human resources office evaluate employee performance and compensation on an annual basis.
+- name: Tableau Profile
+  url: https://public.tableau.com/app/profile/frederic8486
+  description: You can check out somf of the vizzes I've created on Tableau here.
   used:
-    - thing: Advanced Excel Techniques
-    - thing: Data Modeling
-    - thing: Dashboard Design
-    - thing: PowerPoint
+    - thing: Tableau
