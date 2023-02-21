@@ -9,7 +9,7 @@
     
 - name: Tableau Profile
   url: https://public.tableau.com/app/profile/frederic8486
-  description: You can check out somf of the vizzes I've created on Tableau here.
+  description: You can check out some of the vizzes I've created on Tableau here.
   used:
     - thing: Tableau
     
