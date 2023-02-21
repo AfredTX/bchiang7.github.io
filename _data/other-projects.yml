@@ -2,7 +2,10 @@
   url: https://github.com/AfredTX/codewars_katas
   description: I made this repository to keep track of all the kata that I solved on Code Wars.
   used:
-    - thing: Pyhton   
+    - thing: Java
+    - thing: JavaScript
+    - thing: Python  
+    - thing: SQL 
     
 - name: Tableau Profile
   url: https://public.tableau.com/app/profile/frederic8486
