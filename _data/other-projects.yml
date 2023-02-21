@@ -1,3 +1,15 @@
+- name: Code Wars Kata
+  url: https://github.com/AfredTX/codewars_katas
+  description: I made this repository to keep track of all the kata that I solved on Code Wars.
+  used:
+    - thing: Pyhton   
+    
+- name: Tableau Profile
+  url: https://public.tableau.com/app/profile/frederic8486
+  description: You can check out somf of the vizzes I've created on Tableau here.
+  used:
+    - thing: Tableau
+    
 - name: Django Message Board
   url: https://github.com/AfredTX/message_board
   description: A message board app builting using Django and hosted on Heroku
@@ -7,6 +19,15 @@
     - thing: HTML
     - thing: Git
     - thing: Python
+    
+- name: March Madness Bracket Assistant
+  url: https://github.com/AfredTX/MarchMadnessBracketAssistant
+  description: A Google Sheets dashboard with data collected by scraping data from NCAA statistics pages.
+  used:
+    - thing: Dashboard Design
+    - thing: Google Sheets
+    - thing: Python
+    - thing: Web Scraping
     
 - name: Web Scraper
   url: https://github.com/AfredTX/Webscraper
@@ -25,15 +46,3 @@
     - thing: SQL
     - thing: API Interfacing
     - thing: Postman
-    
-- name: Code Wars Kata
-  url: https://github.com/AfredTX/codewars_katas
-  description: I made this repository to keep track of all the kata that I solved on Code Wars.
-  used:
-    - thing: Pyhton   
-    
-- name: Tableau Profile
-  url: https://public.tableau.com/app/profile/frederic8486
-  description: You can check out somf of the vizzes I've created on Tableau here.
-  used:
-    - thing: Tableau
